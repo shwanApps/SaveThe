@@ -10,3 +10,5 @@ new 299 chak krdny aw qarabalaxya
 ok
 
 ama 4ona?
+
+enja amayan? (2)
