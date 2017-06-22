@@ -12,3 +12,4 @@ ok
 ama 4ona?
 
 enja amayan? (2)
+(3)
